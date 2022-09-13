@@ -1,2 +1,4 @@
 # kristheamazing2-dangerous-hacks
-This is a hack that can hack the developer console and can change anything you want/ now talking about the auto clicker, when you paste the auto clicker text do not press enter yet, go to where it says clickerCurrentMouseTarget.click(); and type any number you want in the () and the other hacks I will not talk about but enjoy these hacks.
+These are hacks that can break the internet it is actually really fun to use, comment in the issues if you want more and a specific one.
+Blooket hacks - https://github.com/kristheamazing2/kristheamazing2-blookethacks/tree/main
+Boxel Rebound hacks - https://github.com/kristheamazing2/kristheamazing2-boxel-rebound-hacks
